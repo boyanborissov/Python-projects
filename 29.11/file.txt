@@ -1,0 +1,7 @@
+{
+   "name": "Dimiie",
+   "lastname": "Dimitrov",
+   "age": 18,
+   "car": "Toyota Supra",
+   "number": 16
+}
